@@ -1,4 +1,4 @@
-fs = require("fs");
+fs = require("f");
 const https = require("https");
 process = require("process");
 require("dotenv").config();
